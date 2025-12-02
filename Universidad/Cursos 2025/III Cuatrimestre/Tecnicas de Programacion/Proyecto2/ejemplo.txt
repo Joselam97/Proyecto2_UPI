@@ -1,1 +1,1 @@
-Este es el archivo orginal
+Contenido exclusivo de la rama B para causar conflicto
