@@ -1,1 +1,2 @@
 Contenido exclusivo de la rama B para causar conflicto
+Cambios desde la rama A
